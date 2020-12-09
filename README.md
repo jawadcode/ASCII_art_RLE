@@ -1,4 +1,7 @@
 # RLE Encoder/Decoder for ASCII art
+## RLE:
+[wikipedia article](https://en.wikipedia.org/wiki/Run-length_encoding)
+
 ## Features:
 - Decoding RLE into text
 - Displaying ascii art from a file or from decoding
